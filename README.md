@@ -1,2 +1,2 @@
 # note-taker
-A back end note taking app which save data in JSON file
+A back end note taking app which saves data in JSON file
